@@ -1,0 +1,53 @@
+.nav-wrapper{
+  background-color: CadetBlue;
+  color: WhiteSmoke;
+}
+.page-footer{
+  background: CadetBlue;
+}
+.slider{
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+body{
+  background-color: WhiteSmoke;
+  width: auto;
+  display: block;
+}
+body>div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+
+}
+body>iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+iframe{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 25px;
+}
+ul {
+  margin-left: 50px;
+  margin-right: 55px;
+}
+ol{
+  margin-left: 30px;
+  margin-right: 35px;
+}
+.main-text-header{
+  display: flex;
+  justify-content: space-between;
+}
